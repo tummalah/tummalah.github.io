@@ -1,7 +1,7 @@
 const config = {
   siteTitle: 'Tech Blogs', // Site title.
-  siteTitleShort: '', // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
-  siteTitleAlt: '', // Alternative site title for SEO.
+  siteTitleShort: 'tummalah blogs', // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
+  siteTitleAlt: 'Hemanth Tummala Tech Blogs', // Alternative site title for SEO.
   siteLogo: '/logos/logo-1024.png', // Logo used for SEO and manifest.
   siteUrl: 'http://tummalah.github.io', // Domain of your website without pathPrefix.
   pathPrefix: '/blogs', // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
