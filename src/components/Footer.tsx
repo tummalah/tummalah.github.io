@@ -15,7 +15,7 @@ function Footer() {
 
   return (
     <footer>
-      <Button className={classes.link} variant="contained" href="https://github.com/mckesson/global-erp-services-docs">
+      <Button className={classes.link} variant="contained" href="https://github.com/tummalah/tummalah.github.io">
         Project ON GitHub
       </Button>
       
