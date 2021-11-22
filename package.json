@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-markdown-material-typescript-starter",
-  "description": "GatsbyJS Markdown Material TypeScript Blog Starter.",
-  "version": "1.1.0",
+  "name": "tummalah-blogs",
+  "description": "my personal blog site",
+  "version": "1.0.0",
   "author": "Stephen Harrison <stephen@stephen.cloud>",
   "dependencies": {
     "@material-ui/core": "^4.10.2",
