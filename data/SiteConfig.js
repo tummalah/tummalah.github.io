@@ -6,8 +6,8 @@ const config = {
   siteUrl: 'http://tummalah.github.io', // Domain of your website without pathPrefix.
   pathPrefix: '/blogs', // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription:
-    '', // Website description used for RSS feeds/meta description tag.
-  siteRss: '', // Path to the RSS file.
+    'Technical blog posts from my learning experiences', // Website description used for RSS feeds/meta description tag.
+  siteRss: '/rss.xml', // Path to the RSS file.
   siteFBAppID: '1825356251115265', // FB Application ID for using app insights
   googleAnalyticsID: 'UA-161211056-1', // GA tracking ID.
   dateFromFormat: 'YYYY-MM-DD', // Date format used in the frontmatter.
