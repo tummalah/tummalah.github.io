@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"0Aie":function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),r=a.n(n),c=a("qhky"),l=a("9sSY"),o=a("ofer");var i=function(){return r.a.createElement(r.a.Fragment,null,r.a.createElement(o.a,{variant:"body1"},"hermanth.tummala@mckesson.com"))},m=a("IpnI"),u=a.n(m);t.default=function(){return r.a.createElement(l.a,{categories:!1},r.a.createElement(c.b,{title:"Contact | "+u.a.siteTitle}),r.a.createElement(i,null))}}}]);
+//# sourceMappingURL=component---src-pages-contact-tsx-14cd42cebe6c322ea068.js.map

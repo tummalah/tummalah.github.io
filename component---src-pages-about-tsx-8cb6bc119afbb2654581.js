@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"2l/u":function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),r=a.n(n),l=a("qhky"),c=a("9sSY"),i=a("ofer");var o=function(){return r.a.createElement(r.a.Fragment,null,r.a.createElement(i.a,{variant:"body1"},"Global ERP Services "))},u=a("IpnI"),s=a.n(u);t.default=function(){return r.a.createElement(c.a,{categories:!1},r.a.createElement(l.b,{title:"About | "+s.a.siteTitle}),r.a.createElement(o,null))}}}]);
+//# sourceMappingURL=component---src-pages-about-tsx-8cb6bc119afbb2654581.js.map
