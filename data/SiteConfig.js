@@ -4,22 +4,22 @@ const config = {
   siteTitleAlt: '', // Alternative site title for SEO.
   siteLogo: '/logos/logo-1024.png', // Logo used for SEO and manifest.
   siteUrl: 'http://tummalah.github.io', // Domain of your website without pathPrefix.
-  pathPrefix: '/blog', // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
+  pathPrefix: '/blogs', // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription:
     '', // Website description used for RSS feeds/meta description tag.
   siteRss: '', // Path to the RSS file.
-  siteFBAppID: '', // FB Application ID for using app insights
-  googleAnalyticsID: '', // GA tracking ID.
+  siteFBAppID: '1825356251115265', // FB Application ID for using app insights
+  googleAnalyticsID: 'UA-161211056-1', // GA tracking ID.
   dateFromFormat: 'YYYY-MM-DD', // Date format used in the frontmatter.
   dateFormat: 'DD/MM/YYYY', // Date format for display.
   userName: 'tummalah', // Username to display in the author segment.
   userEmail: 'hermanth.tummala@mckesson.com', // Email used for RSS feed's author segment
-  userTwitter: '', // Optionally renders "Follow Me" in the Bio segment.
-  userGitHub: '', // Optionally renders "Follow Me" in the Bio segment.
+  userTwitter: 'hrtummala', // Optionally renders "Follow Me" in the Bio segment.
+  userGitHub: 'tummalah', // Optionally renders "Follow Me" in the Bio segment.
   userLocation: '', // User location to display in the author segment.
   userAvatar: '', // User avatar to display in the author segment.
   userDescription:
-    "",
+    "A Passionate Cloud Native Architect and Developer",
   copyright: '', // Copyright string for the footer of the website and RSS feed.
   themeColor: '#c62828', // Used for setting manifest and progress theme colors.
   backgroundColor: 'red' // Used for setting manifest background color.
